@@ -1,4 +1,4 @@
-class GreetingsController < ApplicationController
+class V1::GreetingsController < ApplicationController
   def random
     greetings = Greeting.all
     @greeting = greetings[rand(greetings.size)]
