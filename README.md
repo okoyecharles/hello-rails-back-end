@@ -24,7 +24,7 @@
               <li><a href="#key-features">Key Features</a></li>
             </ul>
           </li>
-          <li><a href="#live-demo">🚀 Live Demo</a></li>
+          <li><a href="#live-demo">🚀 Front End</a></li>
         </ul>
     </li>
     <li>
@@ -79,9 +79,9 @@ This projects aim is to help me understand the key features of API Only rails ap
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Front End (React) <a name="live-demo"></a>
 
-Click here to see the [live demo](https://livedemo.com)
+Click here to see the [front end repo](https://github.com/OkoyeCharles/hello-react-front-end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
